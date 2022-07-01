@@ -1,0 +1,11 @@
+{
+  "name": "tmdb-plugin",
+  "version": "1.0.0",
+  "description": "Simple TMDB query plug-in for Logseq.",
+  "main": "index.js",
+  "author": "ddeftly",
+  "license": "MIT",
+  "dependencies": {
+    "@logseq/libs": "^0.0.6"
+  }
+}
